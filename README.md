@@ -33,10 +33,10 @@ The system answers one simple question:
 ## 📸 Example Outputs
 
 ### Oncoming Vehicle Detection
-![STOP ALERT](assets/stop_alert.png)
+![STOP ALERT](assets/U bend_alert_sample.png)
 
 ### Road Blockage Detection
-![ROAD BLOCKED](assets/road_blocked.png)
+![ROAD BLOCKED](assets/Road_block.png)
 
 ---
 

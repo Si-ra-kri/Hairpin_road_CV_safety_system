@@ -33,7 +33,7 @@ The system answers one simple question:
 ## 📸 Example Outputs
 
 ### Oncoming Vehicle Detection
-![STOP ALERT]([assets/U bend_alert_sample.png](https://github.com/Si-ra-kri/Hairpin_road_CV_safety_system/blob/main/assets/U%20bend_alert_sample.png))
+![STOP ALERT](https://github.com/Si-ra-kri/Hairpin_road_CV_safety_system/blob/main/assets/U%20bend_alert_sample.png)
 
 ### Road Blockage Detection
 ![ROAD BLOCKED](assets/Road_block.png)
